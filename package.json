@@ -1,0 +1,23 @@
+{
+  "name": "vite-umd-js",
+  "version": "0.1.0",
+  "description": "Reproduction of UMD bug in vite build",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.0.1"
+  },
+  "dependencies": {
+    "jotform-css.js": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gertqin/vite-umd-js.git"
+  },
+  "author": "Gert Qin Hansen",
+  "license": "MIT",
+  "homepage": "https://github.com/gertqin/vite-umd-js#readme"
+}
